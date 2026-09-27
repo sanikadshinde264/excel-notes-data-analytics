@@ -92,14 +92,3 @@ The **IFS** function is another way to check multiple conditions. It is easier t
 | 💻 `IF(...,IF(...))`              | 💻 `IFS(...,...)`                    |
 
 ---
-
-## 🧠 Quick Revision
-
-🔹 **IF** → Checks one condition.
-🔹 **Nested IF** → Checks multiple conditions using multiple IF functions.
-🔹 **IFS** → Checks multiple conditions in a simpler format.
-
-### ⭐ Remember
-
-> **Nested IF = IF inside IF**
-> **IFS = Multiple conditions in one formula**

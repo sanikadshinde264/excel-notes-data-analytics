@@ -185,18 +185,3 @@ From here, you can:
 * 👀 Change the range to which the rule applies
 
 ---
-
-# 📚 Quick Revision
-
-| Feature                  | Purpose                             |
-| ------------------------ | ----------------------------------- |
-| 🔎 Highlight Cells Rules | Highlight cells based on conditions |
-| 🏆 Top/Bottom Rules      | Find high/low values                |
-| 📊 Data Bars             | Show values using bars              |
-| 🌈 Color Scales          | Show values using colors            |
-| 🔔 Icon Sets             | Show values using icons             |
-| 🆕 New Rule              | Create custom formatting rules      |
-| 🗑️ Clear Rules          | Remove conditional formatting       |
-| ⚙️ Manage Rules          | Edit, delete, or organize rules     |
-
----

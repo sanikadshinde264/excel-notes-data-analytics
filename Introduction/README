@@ -1,12 +1,12 @@
-# Excel Introduction
+# 📊 Excel Introduction
 
-## Overview
+## 📌 Overview
 
-Microsoft Excel is a spreadsheet software used to store, organize, calculate, analyze, and visualize data.
+Microsoft Excel is a spreadsheet software used to **store, organize, calculate, analyze, and visualize data**.
 
-## Main Parts of Excel
+## 🧩 Main Parts of Excel
 
-| Part                     | Description                                                                                                  |
+| 🏷️ Part                 | 📝 Description                                                                                               |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | **Title Bar**            | Displays the name of the current Excel workbook.                                                             |
 | **Quick Access Toolbar** | Provides quick access to commonly used commands such as Save, Undo, and Redo.                                |
@@ -19,92 +19,94 @@ Microsoft Excel is a spreadsheet software used to store, organize, calculate, an
 | **Cell**                 | The intersection of a row and a column.                                                                      |
 | **Status Bar**           | Displays information about the current worksheet and selection.                                              |
 
-### Rows
+## ↔️ Rows
 
-Rows are arranged horizontally and are identified by numbers.
-Total Rows:1,048,576
+Rows are arranged **horizontally** and are identified by numbers.
 
-Example:
+* 🔢 **Total Rows:** `1,048,576`
+
+### Example
 
 ```text
 1, 2, 3, 4, 5...
 ```
 
-### Columns
+## ↕️ Columns
 
-Columns are arranged vertically and are identified by letters.
-Total Columns:16,384
-First Column:A
-Last Column:XFD
+Columns are arranged **vertically** and are identified by letters.
 
-Example:
+* 🔢 **Total Columns:** `16,384`
+* 🔤 **First Column:** `A`
+* 🔤 **Last Column:** `XFD`
+
+### Example
 
 ```text
 A, B, C, D, E...
 ```
 
-## Cell
+## 🟦 Cell
 
-A cell is the intersection of a row and a column.
+A cell is the **intersection of a row and a column**.
 
-Examples:
+### Examples
 
 * `A1` → Column A, Row 1
 * `C5` → Column C, Row 5
 
-The address of the selected cell is displayed in the **Name Box**.
+📍 The address of the selected cell is displayed in the **Name Box**.
 
-## Cell Range
+## 📦 Cell Range
 
-A range represents multiple selected cells.
+A range represents **multiple selected cells**.
 
-Example:
+### Example
 
 ```text
 C5:F8
 ```
 
-This means the range starts at cell **C5** and ends at cell **F8**.
+This means the range starts at cell **C5** and ends at **F8**.
 
-## Formula Bar
+## 🧮 Formula Bar
 
-The Formula Bar displays the content of the selected cell.
+The **Formula Bar** displays the content of the selected cell.
 
-Example:
+### Example
 
 ```text
 =SUM(A1:A5)
 ```
 
-## Formulas
+## ➗ Formulas
 
 A formula in Excel generally starts with the **equal (`=`) sign**.
 
-Example:
+### Example
 
 ```text
 =A1+B1
 ```
 
-This adds the values present in cells A1 and B1.
+This adds the values present in cells **A1** and **B1**.
 
-## Numbers and Text
+## 🔢 Numbers and 📝 Text
 
-* Numbers are generally aligned to the **right** by default.
-* Text is generally aligned to the **left** by default.
+* 🔢 Numbers are generally aligned to the **right** by default.
+* 📝 Text is generally aligned to the **left** by default.
 
-## Fill Handle
+## ✋ Fill Handle
 
-The Fill Handle is the small square at the bottom-right corner of a selected cell or range.
+The **Fill Handle** is the small square at the bottom-right corner of a selected cell or range.
 
 It can be used to:
 
-* Copy values
-* Copy formulas
-* Continue a series
-* Fill cells quickly
+* 📋 Copy values
+* 🧮 Copy formulas
+* 🔢 Continue a series
+* ⚡ Fill cells quickly
 
-Example:
+### Example
 
 ```text
 1

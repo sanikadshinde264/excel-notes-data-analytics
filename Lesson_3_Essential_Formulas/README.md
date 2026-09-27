@@ -162,7 +162,43 @@ Result:
 
 ---
 
-## 📈 6. Percentage
+## 🔢 6. COUNT
+
+### Formula
+
+```excel
+=COUNT(A1:A10)
+```
+
+Counts the number of cells that contain **numbers** in the selected range.
+
+### Example
+
+If `A1:A5` contains:
+
+```text
+10
+20
+Apple
+40
+50
+```
+
+Formula:
+
+```excel
+=COUNT(A1:A5)
+```
+
+Result:
+
+```text
+4
+```
+
+---
+
+## 📈 7. Percentage
 
 ### Formula
 

@@ -20,6 +20,16 @@ Go to:
 
 ```text
 Home → Sort & Filter → Filter
+```
+
+### ⌨️ Shortcut Key
+
+```text
+Ctrl + Shift + L
+```
+
+This shortcut is used to **turn Filter on or off**.
+
 ---
 
 # 2️⃣ 🎨 Filter by Colour
@@ -184,8 +194,6 @@ Ctrl + F
 Ctrl + H
 ```
 
----
-
 ## 🔍 Find
 
 To search for specific data:
@@ -195,8 +203,6 @@ Ctrl + F
 ```
 
 Enter the value you want to find.
-
----
 
 ## 🔄 Replace
 
@@ -223,25 +229,68 @@ Replace with:  [new value]
 5. Click **Replace All**.
 6. Click **Close**.
 
-### Example
+---
 
-If you want to replace:
+# 8️⃣ 🚀 XLBooster
 
-```text
-Old → New
-```
+**XLBooster** provides additional tools for managing, filtering, highlighting, and exporting Excel data.
 
-Enter:
+## 📊 Data Manager
 
-```text
-Find what: Old
-Replace with: New
-```
+The **Data Manager** can be used to work with selected data.
 
-Then click:
+### Steps
 
-```text
-Replace All
-```
+1. Open **XLBooster**.
+2. Select **Data Manager**.
+3. Choose **Smart Data Exporter**.
+4. Select the required data.
+
+---
+
+## 📤 Smart Data Exporter
+
+The **Smart Data Exporter** allows you to export selected Excel data.
+
+### Steps
+
+1. Select the required data.
+2. Open **Smart Data Exporter**.
+3. A **Range** pop-up appears.
+4. Select the required column or data range.
+5. Provide a **unique name** if required.
+6. Select the required export option.
+
+### Export Options
+
+* 📄 **PDF**
+* 📊 **Excel**
+* 📑 **Insert Sheets**
+
+---
+
+## 🔎 Smart Filter
+
+**Smart Filter** helps you filter selected data using XLBooster.
+
+### Steps
+
+1. Select the **whole data**.
+2. Open **Smart Filter**.
+3. Select the required filter conditions.
+4. Apply the filter to the selected data or existing sheet as required.
+
+---
+
+## ✨ Smart Highlighter
+
+**Smart Highlighter** is used to highlight specific data or values in the selected dataset.
+
+### Steps
+
+1. Select the required data.
+2. Open **Smart Highlighter**.
+3. Select the required highlighting option.
+4. Apply the highlighting to the data.
 
 ---

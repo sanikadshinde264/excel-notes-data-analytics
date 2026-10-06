@@ -4,6 +4,8 @@
 
 It helps maintain **accurate, consistent, and error-free data** in a worksheet.
 
+The SORT formula can be combined with Data Validation to create a dynamic drop-down list.
+
 Data Validation is available from:
 
 ```text
